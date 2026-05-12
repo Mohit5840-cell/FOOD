@@ -92,10 +92,10 @@ function Footer() {
         </Desc>
 
         <SocialContainer>
-          <SocialIcon href="#">
+          <SocialIcon href="https://www.instagram.com/mohit_iit">
             <FacebookIcon />
           </SocialIcon>
-          <SocialIcon href="#">
+          <SocialIcon href="https://www.instagram.com/mohit_iit">
             <InstagramIcon />
           </SocialIcon>
           <SocialIcon href="https://www.linkedin.com/in/mohit-kumar-752752349/">
@@ -119,7 +119,7 @@ function Footer() {
           </ListItem>
           <ListItem>
             <CallOutlinedIcon style={{ color: "#488cff" }} />
-            <IconText>+91 12345689</IconText>
+            <IconText>+91 8619947524</IconText>
           </ListItem>
         </List>
       </Column>
